@@ -1,4 +1,4 @@
-package dev.artisra.topinterview150;
+package dev.artisra.topinterview150.arrayandstrings;
 
 /**
  * Solution for removing all occurrences of a specified value from an array in-place.
