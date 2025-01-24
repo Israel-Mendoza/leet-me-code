@@ -6,7 +6,7 @@ package dev.artisra.topinterview150.arrayandstrings;
  * while maintaining the relative order of unique elements.
  * @see <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/">Problem Description on LeetCode</a>
  */
-public class RemoveElementsFromSortedArray {
+public class RemoveDuplicatesFromSortedArray {
 
     /**
      * Removes duplicates from a sorted array in-place and returns the number of unique elements.
