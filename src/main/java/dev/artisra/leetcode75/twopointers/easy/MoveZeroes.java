@@ -1,4 +1,4 @@
-package dev.artisra.leetcode75.easy;
+package dev.artisra.leetcode75.twopointers.easy;
 
 /**
  * Solution for LeetCode problem 283 - Move Zeroes.
