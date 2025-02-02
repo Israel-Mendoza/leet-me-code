@@ -1,4 +1,4 @@
-package dev.artisra.topinterview150.arrayandstrings;
+package dev.artisra.topinterview150.arrayandstrings.easy;
 
 /**
  * Solution for finding the length of the last word in a string.

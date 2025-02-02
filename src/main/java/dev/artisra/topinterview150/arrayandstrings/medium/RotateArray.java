@@ -1,4 +1,4 @@
-package dev.artisra.topinterview150.arrayandstrings;
+package dev.artisra.topinterview150.arrayandstrings.medium;
 
 /**
  * Solution for LeetCode problem 189 - Rotate Array.

@@ -1,4 +1,4 @@
-package dev.artisra.topinterview150.arrayandstrings;
+package dev.artisra.topinterview150.arrayandstrings.easy;
 
 /**
  * Solution for LeetCode problem: Merge Sorted Array
